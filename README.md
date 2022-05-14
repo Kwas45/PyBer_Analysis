@@ -35,5 +35,7 @@ The chart above showcases the sum of the fares for each week. Between 01/06/2019
 The above multiple line chart highlights the total fare by all three city types between Jan and May of 2019. Based on the chart, urban has highest amount and rural the least as stated above. Urban and Suburban have a peak amount right before March. Rural peaks in April. 
 
 
-### Summary
+### PyBer Analysis Summary
+
+This means in the rural area riders tend to pay more per ride and drivers tend to earn more.  Due to the high number of total rides and drivers in the urban area, there is a higher competition, which drives the average fare per ride and average fare per driver low. This may cause more drivers to leave the urban area for the suburban and rural. Riders may object to rides in the rural areas due to higher fares. Urban fares experience the most volatility late February to beginning April. This may be due to the seasonal weather change prompting people to be out and about more and also use alternate means of transport. Rural is the most stable mainly due to the population size and less competition.  
 
