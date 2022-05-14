@@ -8,3 +8,8 @@ The purpose of this project is to create a summary DataFrame of the ride-sharing
 
 ### Resources
 Data Source
+[city_data.csv](https://github.com/Kwas45/PyBer_Analysis/blob/main/Resources/city_data.csv)
+[ride_data.csv](https://github.com/Kwas45/PyBer_Analysis/blob/main/Resources/ride_data.csv)
+
+
+
